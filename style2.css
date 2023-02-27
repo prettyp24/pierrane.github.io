@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&family=Roboto:wght@300&display=swap');
+
+body{
+	font-family: 'Archivo', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	background-color: ghostwhite;
+	background-repeat:no-repeat ;
+	background-size: cover;
+	color: black;
+}
+
+
+h1{
+	font-family: 'Rampart One', cursive;
+	color: red;
+	font-size:50px;
+}
+img{
+	width: 250px;
+	border-radius: 50%;
+}
+
+h2{ 
+	font-family: 'Rampart One', cursive;
+	color:black;
+	font-size:45px;
+ }
+
+#Me{
+	width: 1000px;
+	height: 620px;
+}
+
+#Passion {
+	width: 1000px;
+	height: 300px;
+}
+	
+
+#Sports {
+	width: 1000px;
+	height: 300px;
+}
+
+#Medias {
+	width: 1000px;
+	height: 350px;
+}
+
+.card{
+	background-color: white;
+	border: 0.2px solid darkgrey;
+	margin: 70px auto;
+	padding: 30px 50px;
+	box-shadow: 50px 20px 50px lightgrey;
+	opacity: 0.9;
+}
+
+.image{
+	width: 100px;
+	margin: 20px;
+}
+
+
+ul{
+	list-style: none
+}
+
+
+
+button{
+    background-color: red;
+    opacity: 0.9;
+	border: 0.2px solid darkgrey;
+	color: white ;
+	width: 200px;
+	height: 100px;
+	font-size: 20px;
+	font-style: bold;
+}
+
